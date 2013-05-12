@@ -11,7 +11,7 @@ Les exemples sont inspirés des Sciences de l'Ingénieur (mécanique, électrici
 * Séance 3 : Exemple de problème numérique (1h30)
 * Séance 4 : Autres outils de calcul numérique (1h)
 
-
+Le programme complet est en ODT et PDF : [descriptif formation PDF](documents généraux/description formation Python.pdf)
 
 Autres documents pédagogiques
 -----------------------------
@@ -19,3 +19,5 @@ Autres documents pédagogiques
 
 * Formation à Python scientifique - ENS Paris http://python-prepa.github.io/
 * Python Scientific Lecture Notes http://scipy-lectures.github.io/
+
+Cette formation s'est également construite à la suite de plusieurs échanges avec Bernard Uguen (projet https://github.com/buguen/FormationPython).
