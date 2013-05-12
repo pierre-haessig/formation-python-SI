@@ -22,7 +22,7 @@ filename = 'bode_data.csv'
 N = 100
 f = np.logspace(2, 4, 100)# de 100 à 10 kHz
 
-# Tranfert to 2è ordre:
+# Tranfert du 2è ordre:
 H = H0/(1 + 2j*f/(f0*Q) - (f/f0)**2)
 
 Habs = np.abs(H)
