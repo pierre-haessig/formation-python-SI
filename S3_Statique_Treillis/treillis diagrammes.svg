@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="treillis.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#9a9a9a"
+     borderopacity="1"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="94.009446"
+     inkscape:cy="369.40369"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1141"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm">
+    <inkscape:grid
+       spacingy="10mm"
+       spacingx="10mm"
+       units="mm"
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="5"
+       id="grid2985"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3770" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-58" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         id="path3770-4" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Pierre Haessig</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:date>November 2012</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Pierre Haessig</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Calque 1">
+    <g
+       id="g4270"
+       inkscape:transform-center-x="-159.44882"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="opacity:1;color:#000000;fill:#d4e8f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect2985"
+         width="248.03148"
+         height="70.86615"
+         x="389.76379"
+         y="308.2677"
+         inkscape:transform-center-x="-159.44882" />
+      <path
+         style="fill:none;stroke:#ef8500;stroke-width:3.54330707000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         d="m 425.19685,343.70077 106.29921,0"
+         id="path3755"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 425.68161,336.98291 0,13.43571"
+         id="path4288"
+         inkscape:connector-curvature="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4270"
+       inkscape:transform-center-x="79.724409"
+       id="use4290"
+       transform="matrix(-0.5,-0.8660254,0.8660254,-0.5,233.84247,822.41056)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:transform-center-y="-138.08673"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g4270"
+       inkscape:transform-center-x="79.724411"
+       id="use4292"
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,829.14967,208.69176)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:transform-center-y="138.08672"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       transform="matrix(1.9999997,0,0,1.9999997,-354.33061,-343.70067)"
+       d="m 389.76379,343.70078 a 35.433071,35.433071 0 1 1 -70.86614,0 35.433071,35.433071 0 1 1 70.86614,0 z"
+       sodipodi:ry="35.433071"
+       sodipodi:rx="35.433071"
+       sodipodi:cy="343.70078"
+       sodipodi:cx="354.33072"
+       id="path2983"
+       style="opacity:1;color:#000000;fill:#90c2e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165381000000011;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:0.88549619000000002;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4905"
+       transform="translate(0,6)"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262"
+         y="401.55527"
+         x="432.65237"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="401.55527"
+           x="432.65237"
+           id="tspan4264"
+           sodipodi:role="line">F(bar j<tspan
+   id="tspan4329"
+   style="font-size:17.87742233px;baseline-shift:sub">2</tspan> → piv i)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.22340202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="430.26361"
+         y="382.96643"
+         id="text4337"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339"
+           x="430.26361"
+           y="382.96643"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+    <g
+       id="g4898"
+       transform="translate(-17.152288,-25.253814)"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-8"
+         y="235.42058"
+         x="336.23633"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="235.42058"
+           x="336.23633"
+           id="tspan4264-0"
+           sodipodi:role="line">F(bar j<tspan
+   id="tspan4266-5"
+   style="font-size:17.87742233px;baseline-shift:sub;fill:#000000;fill-opacity:1">1</tspan> → piv i)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.22340202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="334.79297"
+         y="218.21124"
+         id="text4337-7"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-4"
+           x="334.79297"
+           y="218.21124"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+    <g
+       id="g4891"
+       transform="translate(-11.091373,24.162441)"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-4"
+         y="482.32266"
+         x="329.90207"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           id="tspan4331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="482.32266"
+           x="329.90207"
+           sodipodi:role="line">F(bar j<tspan
+   id="tspan4335"
+   style="font-size:17.87742233px;baseline-shift:sub">3</tspan> → piv i)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.22340202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="329.00488"
+         y="464.26462"
+         id="text4337-79"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-3"
+           x="329.00488"
+           y="464.26462"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+    <g
+       id="g4439"
+       transform="matrix(1.1853422,0,0,1.1853422,-70.846364,-65.990197)"
+       style="stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-9"
+         y="353.23456"
+         x="317.52493"
+         style="font-size:27.50334167000000107px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O;stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1"
+           y="353.23456"
+           x="317.52493"
+           id="tspan4264-4"
+           sodipodi:role="line"><tspan
+   id="tspan4397"
+   style="font-size:38px;stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1">∑</tspan>F<tspan
+   id="tspan4401"
+   style="font-size:65.00091553000000033%;baseline-shift:sub;stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1">j</tspan> = 0</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.30106162999999952px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif;stroke-opacity:1"
+         x="338.57401"
+         y="335.66275"
+         id="text4337-7-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-4-6"
+           x="338.57401"
+           y="335.66275"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O;stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1">→</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.30106162999999952px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif;stroke-opacity:1"
+         x="384.34543"
+         y="335.75818"
+         id="text4337-7-98"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-4-9"
+           x="384.34543"
+           y="335.75818"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O;stroke:none;stroke-opacity:1;fill:#1d4f6f;fill-opacity:1">→</tspan></text>
+    </g>
+    <rect
+       inkscape:transform-center-x="-159.44882"
+       y="839.76373"
+       x="141.73228"
+       height="70.86615"
+       width="460.62991"
+       id="rect2985-1"
+       style="color:#000000;fill:#d4e8f4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4537"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#ef8500;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         d="m 177.16534,875.19683 106.29921,0"
+         id="path3755-3"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 177.6501,868.47897 0,13.43571"
+         id="path4288-0"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       transform="matrix(1.9999997,0,0,1.9999997,-602.36212,187.79539)"
+       d="m 389.76379,343.70078 a 35.433071,35.433071 0 1 1 -70.86614,0 35.433071,35.433071 0 1 1 70.86614,0 z"
+       sodipodi:ry="35.433071"
+       sodipodi:rx="35.433071"
+       sodipodi:cy="343.70078"
+       sodipodi:cx="354.33072"
+       id="path2983-0"
+       style="color:#000000;fill:#90c2e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165377;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       sodipodi:type="arc"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4877"
+       transform="matrix(0.9,0,0,0.9,5.498491,87.255072)"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-0"
+         y="822.91956"
+         x="184.62088"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="822.91956"
+           x="184.62088"
+           id="tspan4264-43"
+           sodipodi:role="line">F(bar j → piv i<tspan
+   id="tspan4571"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan>) = + f<tspan
+   style="font-size:72.22290039%;baseline-shift:sub"
+   id="tspan3076">j</tspan> u<tspan
+   style="font-size:72.22290039%;baseline-shift:sub"
+   id="tspan3078">j</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.22340202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ef8500;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="182.23212"
+         y="804.33069"
+         id="text4337-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-9"
+           x="182.23212"
+           y="804.33069"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ef8500;fill-opacity:1;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.02244568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007fcc;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="437.04211"
+         y="809.70935"
+         id="text4337-8-3-3-9"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-9-0-2-7"
+           x="437.04211"
+           y="809.70935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#007fcc;fill-opacity:1;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+    <path
+       sodipodi:type="arc"
+       style="color:#000000;fill:#90c2e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.77165377;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path4535"
+       sodipodi:cx="354.33072"
+       sodipodi:cy="343.70078"
+       sodipodi:rx="35.433071"
+       sodipodi:ry="35.433071"
+       d="m 389.76379,343.70078 a 35.433071,35.433071 0 1 1 -70.86614,0 35.433071,35.433071 0 1 1 70.86614,0 z"
+       transform="matrix(1.9999997,0,0,1.9999997,-106.29913,187.79539)"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(-1,0,0,1,708.6614,-1.7135212e-6)"
+       id="g4537-6"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:none;stroke:#ef8500;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         d="m 177.16534,875.19683 106.29921,0"
+         id="path3755-3-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 177.6501,868.47897 0,13.43571"
+         id="path4288-0-6"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:22.27770615px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Serif;-inkscape-font-specification:Serif"
+       x="552.76398"
+       y="350.44138"
+       id="text4262-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4264-2"
+         x="552.76398"
+         y="350.44138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">barre j<tspan
+   style="font-size:14.48071384px;baseline-shift:sub"
+   id="tspan4729">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.27770615px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Serif;-inkscape-font-specification:Serif"
+       x="210.85762"
+       y="155.27605"
+       id="text4262-3-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4264-2-5"
+         x="210.85762"
+         y="155.27605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">barre j<tspan
+   style="font-size:14.48071384px;baseline-shift:sub"
+   id="tspan4727">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22.27770615px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Serif;-inkscape-font-specification:Serif"
+       x="207.97633"
+       y="546.59393"
+       id="text4262-3-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="statique_pivot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4264-2-2"
+         x="207.97633"
+         y="546.59393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;color:#000000;fill:#3c96cd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">barre j<tspan
+   style="font-size:14.48071384px;baseline-shift:sub"
+   id="tspan4755">3</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:38.51546097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       x="48.971416"
+       y="885.38586"
+       id="text4262-9-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4264-4-6"
+         x="48.971416"
+         y="885.38586"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">Pivot i<tspan
+   style="font-size:25.03540039px;baseline-shift:sub"
+   id="tspan4807">1</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4833"
+       y="885.38586"
+       x="546.97144"
+       style="font-size:38.51546097px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+       xml:space="preserve"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#1d4f6f;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+         y="885.38586"
+         x="546.97144"
+         id="tspan4835"
+         sodipodi:role="line">Pivot i<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan4839">2</tspan></tspan></text>
+    <g
+       id="g4871"
+       transform="translate(142.28571,0)"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4873"
+         d="m 177.16534,875.19683 66.29921,0"
+         style="fill:none;stroke:#0094ef;stroke-width:3.54330707;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow1Mend)"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4875"
+         d="m 177.6501,868.47897 0,13.43571"
+         style="fill:none;stroke:#000000;stroke-width:1.0629921;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:18.99254417px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#55a2d3;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Linux Biolinum O Italic"
+       x="226.44408"
+       y="980.7077"
+       id="text4262-9-9-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4264-4-6-8"
+         x="226.44408"
+         y="980.7077"
+         style="font-size:18.99254417px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#55a2d3;fill-opacity:1;stroke:none;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O Italic">(cette barre est en traction : f<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3103">j</tspan> &gt; 0)</tspan></text>
+    <g
+       transform="translate(-23.07413,-45.903401)"
+       id="g4884-0"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-0-4-1"
+         y="946.06299"
+         x="354.33072"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="946.06299"
+           x="354.33072"
+           id="tspan4264-43-4-4"
+           sodipodi:role="line">u<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan4969">j</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:15.32020092px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="354.1492"
+         y="932.43976"
+         id="text4337-8-3-3"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-9-0-2"
+           x="354.1492"
+           y="932.43976"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+    <g
+       id="g4877-1"
+       transform="matrix(0.9,0,0,0.9,131.41863,196.9261)"
+       inkscape:export-filename="forces_barre.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4262-0-9"
+         y="822.91956"
+         x="184.62088"
+         style="font-size:27.50334167px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O"
+           y="822.91956"
+           x="184.62088"
+           id="tspan4264-43-1"
+           sodipodi:role="line">F(bar j → piv i<tspan
+   id="tspan4571-9"
+   style="font-size:65.00091553%;baseline-shift:sub">1</tspan>) = - f<tspan
+   style="font-size:72.22290039%;baseline-shift:sub"
+   id="tspan3076-2">j</tspan> u<tspan
+   style="font-size:72.22290039%;baseline-shift:sub"
+   id="tspan3078-4">j</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:19.22340202px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ef8500;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="182.23212"
+         y="804.33069"
+         id="text4337-8-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-9-8"
+           x="182.23212"
+           y="804.33069"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ef8500;fill-opacity:1;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:17.02244568px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007fcc;fill-opacity:1;stroke:none;font-family:Serif;-inkscape-font-specification:Serif"
+         x="432.59766"
+         y="809.70935"
+         id="text4337-8-3-3-9-8"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4339-9-0-2-7-3"
+           x="432.59766"
+           y="809.70935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#007fcc;fill-opacity:1;font-family:Linux Biolinum O;-inkscape-font-specification:Linux Biolinum O">→</tspan></text>
+    </g>
+  </g>
+</svg>
