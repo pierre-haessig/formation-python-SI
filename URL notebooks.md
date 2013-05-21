@@ -3,22 +3,10 @@ Adresse des Notebooks IPython sur nbviewer.org
 
 note : il semble que les formules de math ne soient pas rendues correctement.
 
-Séance 1
---------
+[Séance 1](http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S1_Bases_Python.ipynb)
 
-http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S1%2520Python%2520g%25C3%25A9n%25C3%25A9raliste.ipynb
+[Séance 2](http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S2_Objets_et_NumPy.ipynb)
 
-Séance 2
---------
+[Séance 3](http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S3_Statique_Treillis.ipynb)
 
-http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S2%20Objets%20et%20Calcul%20numérique.ipynb
-
-Séance 3
---------
-
-http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S3%2520Statique%2520Treillis.ipynb
-
-Séance 4
---------
-
-http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S4%20Autres%20outils%20numériques.ipynb
+[Séance 4](http://nbviewer.ipython.org/urls/raw.github.com/pierre-haessig/formation-python-SI/master/S4_Outils_num_SciPy.ipynb)
