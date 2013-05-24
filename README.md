@@ -13,6 +13,17 @@ Les exemples sont inspirés des Sciences de l'Ingénieur (mécanique, électrici
 
 Le programme complet est en ODT et PDF : [descriptif formation PDF](documents généraux/description formation Python.pdf)
 
+Page web de la formation : http://pierreh.eu/formation-python/
+(avec les liens vers les notebooks sur nbviewer)
+
+
+Sessions
+--------
+
+La 1ère session de cette formation a eu lieu le 22 mai 2013 à
+__l'ENS Cachan antenne de Bretagne__.
+
+
 Autres documents pédagogiques
 -----------------------------
 (qui ont nourri cette formation)
