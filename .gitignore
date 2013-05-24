@@ -1,1 +1,10 @@
 *~
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.backup
+*.toc
+
